@@ -1,10 +1,19 @@
 [
   {
-    "id": "comm_1786374213692",
-    "url": "https:\/\/raw.githubusercontent.com\/nothingfirmware\/nothingwalls\/main\/Wallpaper\/Community\/wall_1786374209641.png",
-    "thumbUrl": "https:\/\/raw.githubusercontent.com\/nothingfirmware\/nothingwalls\/main\/Wallpaper\/Community\/wall_1786374209641.png",
+    "id": "comm_1786379822064",
+    "url": "https://raw.githubusercontent.com/nothingfirmware/nothingwalls/main/Wallpaper/Community/wall_1786379822064.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/nothingfirmware/nothingwalls/main/Wallpaper/Community/wall_1786379822064.jpg",
     "uploaderName": "ROHit",
-    "uploaderAvatar": "content:\/\/media\/picker_get_content\/0\/com.android.providers.media.photopicker\/media\/1000551039",
+    "uploaderAvatar": "content://media/picker_get_content/0/com.android.providers.media.photopicker/media/1000567991",
+    "isUploaderVerified": true,
+    "createdAt": "2026-08-10T16:37:04.681Z"
+  },
+  {
+    "id": "comm_1786374213692",
+    "url": "https://raw.githubusercontent.com/nothingfirmware/nothingwalls/main/Wallpaper/Community/wall_1786374209641.png",
+    "thumbUrl": "https://raw.githubusercontent.com/nothingfirmware/nothingwalls/main/Wallpaper/Community/wall_1786374209641.png",
+    "uploaderName": "ROHit",
+    "uploaderAvatar": "content://media/picker_get_content/0/com.android.providers.media.photopicker/media/1000551039",
     "isUploaderVerified": true
   }
 ]
